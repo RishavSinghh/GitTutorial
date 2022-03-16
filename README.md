@@ -18,6 +18,22 @@ Create the project folder and initialize Git using the following command :
   git init
 ```
 
+### Step 2:
+
+Make changes to your project file. Add the files to staging area using the following command :
+
+```bash
+  git add .
+```
+
+### Step 3:
+
+Commit the changes using the following command (add your own message in place of 'commit message' ) :
+
+```bash
+  git commit -m "commit message"
+```
+
 ### \*\* other steps will be added later
 
 Create branch
