@@ -17,3 +17,25 @@ Create the project folder and initialize Git using the following command :
 ```bash
   git init
 ```
+
+### \*\* other steps will be added later
+
+Create branch
+
+```bash
+git branch <branch name>
+
+git checkout <branch name>
+
+git push -u origin <branch name>
+
+OR
+
+git push -u origin HEAD
+
+git checkout main/master
+
+git merge <branch name>
+
+[optional] git branch -d <branch name>
+```
